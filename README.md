@@ -6,7 +6,7 @@ To get this running in your pc first you must have python3.8 in your pc then dow
 The data used in this program is randomly generated so you will not get exact answer it is just a result base on random data.
 
 Explaination: 
-  main.py is main python file it starts the flask web server and runs to interconnect html and machine learning
+  main.py is main python file it starts the flask web server and runs to interconnect html and machine learning and applys logic for finding probablity and showing final result.
   myTraining.py is a ML file which is used to understand and learn data and give result based on that after running myTraining.py a pkl file gets created which is saved learned model by ML.
   Data.csv is the file which has the randomly generated data which we are using to add in our model to test which can be further replaced with real data to get accurate results.
   The templates folder have html files whis is shown to you and static folder has all css.
