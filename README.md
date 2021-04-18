@@ -12,3 +12,4 @@ Explaination:
   The templates folder have html files whis is shown to you and static folder has all css.
   you can also write jupyter notebook or python -m notebook in power shell start jupyter notebook server and then open COVID tester.ipynb to see all rough data and code we used while making this program.
  
+Further many more deseases like ths can b added easily.
